@@ -2,7 +2,7 @@
 
 This is for my internship.
 
-The goal is to do clustering on potentail buyer by focusing on the features in the gable. And also do analysis on each clustering group.
+The goal is to do clustering on potentail buyer by focusing on the features in the excel file. And also do analysis on each clustering group.
 
 The things I did:
 
